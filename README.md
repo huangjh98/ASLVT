@@ -4,7 +4,7 @@
 --------------------------
 ## Environment
 
-Python 3.8.0 
+Python 3.8.0  
 Pytorch 1.11.0  
 torchvision 0.12.0  
 numpy 1.21.6  
