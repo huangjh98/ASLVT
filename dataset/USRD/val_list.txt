@@ -1,0 +1,573 @@
+Baseball_035 1
+Baseball_029 
+Baseball_002 
+Baseball_014 1
+Baseball_043 
+Baseball_048 
+Baseball_005 1
+Baseball_026 
+Baseball_050 
+Baseball_013 1
+Baseball_023 1
+Baseball_037 
+Baseball_012 1
+Baseball_047 1
+Baseball_038 1
+Baseball_024 1
+Baseball_036 
+Baseball_020 1
+Baseball_025 
+Baseball_009 1
+Basketball_044 1
+Basketball_004 1
+Basketball_012 1
+Basketball_009 
+Basketball_031 1
+Basketball_003 1
+Basketball_037 
+Basketball_047 1
+Basketball_052 1
+Basketball_007 
+Basketball_018 1
+Basketball_046 1
+Basketball_026 1
+Basketball_025 1
+Basketball_023 1
+Basketball_022 
+Basketball_018 
+Basketball_013 1
+Basketball_010 1
+Basketball_038 
+Boating_049 
+Boating_048 
+Boating_035 
+Boating_034 1
+Boating_029 1
+Boating_043 1
+Boating_047 
+Boating_033 1
+Boating_031 
+Boating_050 
+Boating_045 1
+Boating_046 
+Boating_019 
+Boating_013 1
+Boating_002 1
+Boating_050 1
+Boating_043 
+Boating_035 1
+Boating_032 
+Boating_037 1
+CarRacing_016 
+CarRacing_002 1
+CarRacing_005 1
+CarRacing_018 
+CarRacing_001 1
+CarRacing_013 
+CarRacing_015 1
+CarRacing_017 1
+CarRacing_025 1
+Concert_031 
+Concert_036 1
+Concert_048 1
+Concert_033 1
+Concert_006 1
+Concert_046 
+Concert_002 
+Concert_022 1
+Concert_019 1
+Concert_033 
+Concert_038 1
+Concert_040 1
+Concert_007 
+Concert_039 1
+Concert_013 
+Concert_042 1
+Concert_048 
+Concert_047 1
+Concert_005 1
+Concert_032 
+Conflict_014 1
+Conflict_018 
+Conflict_005 1
+Conflict_013 
+Conflict_016 1
+Conflict_023 
+Conflict_025 1
+Conflict_001 1
+Conflict_004 
+Conflict_013 1
+Constructing_048 
+Constructing_015 
+Constructing_055 1
+Constructing_007 1
+Constructing_029 1
+Constructing_026 1
+Constructing_008 
+Constructing_040 
+Constructing_030 
+Constructing_008 1
+Constructing_047 1
+Constructing_019 1
+Constructing_045 
+Constructing_024 1
+Constructing_005 
+Constructing_041 1
+Constructing_014 1
+Constructing_046 1
+Constructing_055 
+Constructing_059 1
+Constructing_051 
+Constructing_009 
+Constructing_058 1
+Constructing_004 1
+Cycling_007 
+Cycling_010 
+Cycling_042 1
+Cycling_027 
+Cycling_002 1
+Cycling_022 1
+Cycling_007 1
+Cycling_056 1
+Cycling_045 
+Cycling_028 1
+Cycling_027 1
+Cycling_008 1
+Cycling_033 1
+Cycling_051 1
+Cycling_026 
+Cycling_015 
+Cycling_009 1
+Cycling_003 
+Cycling_037 
+Cycling_044 1
+Cycling_018 1
+Cycling_006 1
+Fire_023 1
+Fire_043 1
+Fire_056 1
+Fire_058 1
+Fire_050 
+Fire_007 
+Fire_021 1
+Fire_050 1
+Fire_046 1
+Fire_032 1
+Fire_018 
+Fire_010 
+Fire_044 
+Fire_006 
+Fire_003 1
+Fire_019 
+Fire_037 
+Fire_044 1
+Fire_028 
+Fire_027 1
+Fire_001 1
+Fire_039 1
+Fire_015 1
+Flood_033 
+Flood_013 
+Flood_050 1
+Flood_013 1
+Flood_015 
+Flood_011 1
+Flood_018 
+Flood_044 1
+Flood_049 1
+Flood_040 1
+Flood_006 
+Flood_020 
+Flood_002 
+Flood_024 
+Flood_035 
+Flood_043 
+Flood_002 1
+Flood_008 1
+Flood_047 1
+Flood_025 
+Harvesting_041 1
+Harvesting_020 
+Harvesting_007 1
+Harvesting_024 1
+Harvesting_022 
+Harvesting_019 1
+Harvesting_050 1
+Harvesting_056 1
+Harvesting_062 1
+Harvesting_060 1
+Harvesting_045 1
+Harvesting_051 1
+Harvesting_056 
+Harvesting_021 
+Harvesting_034 
+Harvesting_028 1
+Harvesting_042 1
+Harvesting_005 
+Harvesting_041 
+Harvesting_029 
+Harvesting_042 
+Harvesting_026 
+Harvesting_036 
+Harvesting_047 
+Harvesting_012 
+Harvesting_016 1
+Landslide_025 
+Landslide_017 
+Landslide_039 
+Landslide_015 1
+Landslide_037 
+Landslide_010 1
+Landslide_043 1
+Landslide_001 1
+Landslide_043 
+Landslide_005 1
+Landslide_028 
+Landslide_006 
+Landslide_012 1
+Landslide_012 
+Landslide_024 
+Landslide_047 1
+Landslide_018 1
+Landslide_050 1
+Landslide_034 
+Landslide_036 
+Mudslide_002 1
+Mudslide_011 
+Mudslide_040 
+Mudslide_046 
+Mudslide_026 
+Mudslide_022 1
+Mudslide_049 
+Mudslide_052 1
+Mudslide_012 1
+Mudslide_005 1
+Mudslide_026 1
+Mudslide_027 
+Mudslide_028 1
+Mudslide_042 
+Mudslide_005 
+Mudslide_049 1
+Mudslide_032 
+Mudslide_035 1
+Mudslide_018 1
+Mudslide_010 1
+Mudslide_001 1
+NonEvent_102 1
+NonEvent_071 
+NonEvent_133 
+NonEvent_172 1
+NonEvent_104 
+NonEvent_090 
+NonEvent_019 
+NonEvent_039 
+NonEvent_012 
+NonEvent_173 1
+NonEvent_099 1
+NonEvent_188 1
+NonEvent_002 
+NonEvent_029 
+NonEvent_148 1
+NonEvent_125 1
+NonEvent_109 1
+NonEvent_136 1
+NonEvent_067 
+NonEvent_070 1
+NonEvent_154 1
+NonEvent_119 
+NonEvent_132 
+NonEvent_012 1
+NonEvent_073 1
+NonEvent_116 
+NonEvent_096 1
+NonEvent_078 
+NonEvent_153 
+NonEvent_004 1
+NonEvent_143 1
+NonEvent_174 1
+NonEvent_040 1
+NonEvent_112 
+NonEvent_152 
+NonEvent_139 1
+NonEvent_024 
+NonEvent_123 
+NonEvent_106 1
+NonEvent_009 1
+NonEvent_014 1
+NonEvent_146 1
+NonEvent_092 1
+NonEvent_033 1
+NonEvent_145 1
+NonEvent_081 1
+NonEvent_070 
+NonEvent_062 1
+NonEvent_006 
+NonEvent_047 1
+NonEvent_086 
+NonEvent_066 
+NonEvent_010 
+NonEvent_149 
+NonEvent_050 1
+NonEvent_080 
+NonEvent_093 
+NonEvent_030 
+NonEvent_131 
+NonEvent_035 1
+NonEvent_026 1
+NonEvent_160 1
+NonEvent_043 
+NonEvent_094 1
+NonEvent_092 
+NonEvent_018 
+NonEvent_103 
+NonEvent_157 1
+NonEvent_128 
+NonEvent_069 
+ParadeProtest_014 
+ParadeProtest_011 
+ParadeProtest_014 1
+ParadeProtest_024 1
+ParadeProtest_005 
+ParadeProtest_039 
+ParadeProtest_028 1
+ParadeProtest_006 1
+ParadeProtest_013 1
+ParadeProtest_032 
+ParadeProtest_021 1
+ParadeProtest_025 1
+ParadeProtest_050 1
+ParadeProtest_047 1
+ParadeProtest_040 1
+ParadeProtest_048 1
+ParadeProtest_008 
+ParadeProtest_002 1
+ParadeProtest_036 
+ParadeProtest_042 1
+Party_046 1
+Party_014 1
+Party_042 
+Party_011 
+Party_011 1
+Party_016 1
+Party_032 
+Party_043 
+Party_038 1
+Party_010 
+Party_003 
+Party_028 
+Party_019 
+Party_027 1
+Party_029 1
+Party_041 1
+Party_041 
+Party_013 
+Party_032 1
+Party_039 1
+Ploughing_026 
+Ploughing_014 1
+Ploughing_028 
+Ploughing_045 1
+Ploughing_023 1
+Ploughing_050 1
+Ploughing_034 1
+Ploughing_038 
+Ploughing_038 1
+Ploughing_051 
+Ploughing_034 
+Ploughing_025 
+Ploughing_017 
+Ploughing_035 1
+Ploughing_009 
+Ploughing_012 
+Ploughing_002 1
+Ploughing_018 
+Ploughing_027 1
+Ploughing_040 1
+Ploughing_014 
+PoliceChase_017 1
+PoliceChase_019 1
+PoliceChase_045 1
+PoliceChase_050 1
+PoliceChase_001 1
+PoliceChase_027 1
+PoliceChase_011 1
+PoliceChase_039 1
+PoliceChase_046 1
+PoliceChase_044 1
+PoliceChase_016 1
+PoliceChase_004 
+PoliceChase_020 1
+PoliceChase_038 1
+PoliceChase_014 
+PoliceChase_024 
+PoliceChase_012 
+PoliceChase_026 1
+PoliceChase_010 
+PoliceChase_038 
+PoliceChase_028 1
+PostEarthquake_040 
+PostEarthquake_024 1
+PostEarthquake_023 
+PostEarthquake_050 
+PostEarthquake_003 1
+PostEarthquake_007 1
+PostEarthquake_047 
+PostEarthquake_006 1
+PostEarthquake_012 
+PostEarthquake_022 1
+PostEarthquake_035 
+PostEarthquake_013 1
+PostEarthquake_010 1
+PostEarthquake_043 
+PostEarthquake_044 
+PostEarthquake_020 1
+PostEarthquake_037 
+PostEarthquake_034 1
+PostEarthquake_025 1
+PostEarthquake_015 1
+PostEarthquake_004 1
+PostEarthquake_012 1
+PostEarthquake_008 
+ReligiousActivity_037 
+ReligiousActivity_004 
+ReligiousActivity_037 1
+ReligiousActivity_050 1
+ReligiousActivity_035 
+ReligiousActivity_047 1
+ReligiousActivity_031 1
+ReligiousActivity_007 
+ReligiousActivity_020 1
+ReligiousActivity_027 
+ReligiousActivity_012 
+ReligiousActivity_016 
+ReligiousActivity_040 
+ReligiousActivity_041 
+ReligiousActivity_052 1
+ReligiousActivity_029 1
+ReligiousActivity_002 1
+ReligiousActivity_051 1
+ReligiousActivity_007 1
+ReligiousActivity_023 1
+ReligiousActivity_014 
+ReligiousActivity_024 
+Running_025 1
+Running_086 1
+Running_047 1
+Running_008 1
+Running_076 
+Running_049 
+Running_064 1
+Running_049 1
+Running_048 1
+Running_006 1
+Running_043 1
+Running_072 
+Running_040 
+Running_083 1
+Running_002 1
+Running_013 1
+Running_044 
+Running_028 1
+Running_079 
+Running_011 
+Running_003 
+Running_078 
+Running_035 1
+Running_060 
+Running_062 
+Running_046 
+Running_039 1
+Running_077 1
+Running_029 
+Running_054 1
+Running_032 
+Running_063 1
+Running_020 1
+Running_025 
+Soccer_014 
+Soccer_011 
+Soccer_048 1
+Soccer_025 1
+Soccer_042 
+Soccer_015 
+Soccer_033 1
+Soccer_026 1
+Soccer_029 
+Soccer_006 
+Soccer_047 1
+Soccer_052 1
+Soccer_011 1
+Soccer_062 
+Soccer_009 1
+Soccer_007 
+Soccer_033 
+Soccer_043 
+Soccer_001 1
+Soccer_022 1
+Soccer_002 1
+Soccer_046 
+Soccer_037 
+Soccer_057 
+Soccer_056 1
+Swimming_046 
+Swimming_040 1
+Swimming_013 
+Swimming_024 1
+Swimming_019 
+Swimming_006 
+Swimming_011 1
+Swimming_028 1
+Swimming_047 
+Swimming_017 
+Swimming_006 1
+Swimming_022 1
+Swimming_021 
+Swimming_041 
+Swimming_017 1
+Swimming_041 1
+Swimming_015 1
+Swimming_016 1
+Swimming_048 
+Swimming_010 
+TrafficCollision_001 
+TrafficCollision_047 
+TrafficCollision_043 1
+TrafficCollision_031 
+TrafficCollision_013 1
+TrafficCollision_024 1
+TrafficCollision_036 1
+TrafficCollision_056 1
+TrafficCollision_053 1
+TrafficCollision_012 1
+TrafficCollision_002 1
+TrafficCollision_053 
+TrafficCollision_047 1
+TrafficCollision_052 1
+TrafficCollision_033 
+TrafficCollision_035 
+TrafficCollision_021 1
+TrafficCollision_003 
+TrafficCollision_016 
+TrafficCollision_007 
+TrafficCollision_054 1
+TrafficCollision_001 1
+TrafficCongestion_027 1
+TrafficCongestion_050 1
+TrafficCongestion_035 1
+TrafficCongestion_049 
+TrafficCongestion_021 
+TrafficCongestion_017 
+TrafficCongestion_029 1
+TrafficCongestion_028 1
+TrafficCongestion_043 1
+TrafficCongestion_008 
+TrafficCongestion_040 
+TrafficCongestion_031 1
+TrafficCongestion_018 1
+TrafficCongestion_003 1
+TrafficCongestion_005 1
+TrafficCongestion_008 1
+TrafficCongestion_026 
+TrafficCongestion_041 
+TrafficCongestion_027 
+TrafficCongestion_024 1
