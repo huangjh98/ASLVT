@@ -6,9 +6,8 @@
 
 Python 3.8.0 
 Pytorch 1.11.0  
-torchvision 0.12.0
-numpy 1.21.6
-
+torchvision 0.12.0  
+numpy 1.21.6  
 --------------------------
 ## Dataset
 We use the following 2 datasets: USRD Video-Text Dataset and UMCRD Video-Text Dataset. [Dataset download link](https://pan.baidu.com/)
